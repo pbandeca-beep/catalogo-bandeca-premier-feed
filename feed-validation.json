@@ -1,7 +1,7 @@
 {
   "project": "Catálogo Bandeca Versão 2.0 Premier",
   "stage": "meta-feed-test",
-  "generated_at_utc": "2026-10-09T18:51:09.286027+00:00",
+  "generated_at_utc": "2026-10-28T19:45:12.547984+00:00",
   "source_template": "catalog_products_2026-10-08 11_28_47.xlsx",
   "official_columns": 31,
   "extension_columns": [
@@ -41,14 +41,14 @@
     "style[0]",
     "additional_image_link"
   ],
-  "expected_total_from_site": 120,
-  "inventory_urls_found": 120,
-  "feed_rows": 120,
-  "existing_meta_ids_reused": 24,
-  "new_or_site_ids_used": 96,
-  "preparation_rows": 24,
-  "rows_with_10_photos": 96,
-  "rows_with_1_photo": 24,
+  "expected_total_from_site": 124,
+  "inventory_urls_found": 124,
+  "feed_rows": 124,
+  "existing_meta_ids_reused": 19,
+  "new_or_site_ids_used": 105,
+  "preparation_rows": 23,
+  "rows_with_10_photos": 101,
+  "rows_with_1_photo": 23,
   "errors": [],
   "success": true
 }
