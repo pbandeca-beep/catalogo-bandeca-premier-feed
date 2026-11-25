@@ -1,7 +1,7 @@
 {
   "project": "Catálogo Bandeca Versão 2.0 Premier",
   "stage": "meta-feed-test",
-  "generated_at_utc": "2026-11-25T11:26:53.394786+00:00",
+  "generated_at_utc": "2026-11-25T23:13:43.853289+00:00",
   "source_template": "catalog_products_2026-10-08 11_28_47.xlsx",
   "official_columns": 31,
   "extension_columns": [
@@ -41,22 +41,25 @@
     "style[0]",
     "additional_image_link"
   ],
-  "expected_total_from_site": 121,
+  "expected_total_from_site": 120,
   "inventory_urls_found": 121,
-  "feed_rows": 120,
-  "excluded_no_price_count": 1,
+  "feed_rows": 119,
+  "excluded_no_price_count": 2,
   "excluded_no_price_ids": [
-    "69743352"
+    "69743352",
+    "69959574"
   ],
   "excluded_technical_count": 0,
   "excluded_technical_ids": [],
   "warnings": [
-    "69743352: preço vazio (veículo excluído do feed)"
+    "Total divergente: site=120, coletados=121.",
+    "69743352: preço vazio (veículo excluído do feed)",
+    "69959574: preço vazio (veículo excluído do feed)"
   ],
   "existing_meta_ids_reused": 12,
-  "new_or_site_ids_used": 108,
+  "new_or_site_ids_used": 107,
   "preparation_rows": 31,
-  "rows_with_10_photos": 88,
+  "rows_with_10_photos": 87,
   "rows_with_1_photo": 31,
   "errors": [],
   "success": true
